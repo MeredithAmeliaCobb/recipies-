@@ -1,6 +1,6 @@
 ## ingrediants
 *avocado
-*limon
+*lime
 *salt
 
-##ingrediants
+##instructions
