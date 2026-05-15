@@ -2,7 +2,7 @@
 
 ##ingrediants
 *chiskpeas
-*peanut butter 
+*peanut butter or Sesame 
 *limon 
 *garlic
 
