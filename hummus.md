@@ -1,7 +1,8 @@
 # Hummus
 
 ##ingrediants
-*chiskpeas 
+*chiskpeas
+*Sesame 
 *limon 
 *garlic
 
