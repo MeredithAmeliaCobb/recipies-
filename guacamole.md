@@ -5,5 +5,6 @@
 *celontro 
 
 ##instructions
-#feed all ingrediants to the ca
-#wait can cats have celontro?t
+#feed all ingrediants to the cat
+#wait can cats have celontro?
+#yes the cat can
